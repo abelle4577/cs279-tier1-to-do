@@ -1,0 +1,15 @@
+{
+  "name": "tier1-to-do",
+  "version": "1.0.0",
+  "description": "\"[Tier 1] Programming HW0: Make a To-Do App with just HTML, CSS, and JS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tier-1-To-Do"
+  },
+  "author": "\"Alyssa Belle\"",
+  "license": "ISC"
+}
